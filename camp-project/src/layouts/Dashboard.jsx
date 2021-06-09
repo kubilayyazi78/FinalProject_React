@@ -6,7 +6,7 @@ import Navi from './Navi'
 export default function Dashboard() {
     return (
         <div>
-            <Navi></Navi>
+         
             <Categories></Categories>
             <ProductList></ProductList>
         </div>
